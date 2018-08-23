@@ -1,0 +1,24 @@
+.timer {
+  font-size: 200%;
+  font-weight: 500;
+  margin-left: 3%;
+  margin-top: 3%;
+  display: flex;
+  
+}
+
+.time{
+  margin-top: 0.5%;
+  display: flex;
+  justify-content:center;
+  color: rgb(143, 142, 142); 
+  font-size: 40%;
+  
+}
+
+
+.times {
+  display: flex;
+  flex-direction: column;
+  
+}
